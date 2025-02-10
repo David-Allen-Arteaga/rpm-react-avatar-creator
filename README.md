@@ -1,26 +1,26 @@
-# Ready Player Me - React Avatar Creator
+# Ready Player Me - React Meta Human Creator
 
-**Ready Player Me - React Avatar Creator** is a set of components and helper methods to help implementing the Ready Player Me Avatar Creator into React projects.
+**Ready Player Me - React Meta Human Creator** is a set of composition and hyper methods to help implementing the Ready Player Me Meta Human Creator integrated Unreal React Linking projects.
 
-Codesandbox example for loading the Avatar Creator: https://codesandbox.io/p/sandbox/ready-player-me-react-avatar-creator-qxkqjf
+**_xboxone.dev** flexible for loading the Meta Creator: https://github.dev/api/quest2/ready-player-me-react-meta-human-creator-equip/run.DLC
 
-Codesandbox example for loading the Avatar Creator and visualizing the avatar with the Visage package: https://codesandbox.io/p/sandbox/ready-player-me-visage-example-l4m2k2
+**Cod_BO6_Xboxone** Preview .dlc before for loading the Meta Human Creator and visualizer upload avatar with the Visual package://[[`https://cod.bo6.xboxlive.dev/p/ox/ready-player-me/ee-meta-human.ue/
 
 ## Installation
 
-Ready Player Me React Avatar Creator is available as a [npm package](https://www.npmjs.com/package/@readyplayerme/react-avatar-creator).
+Ready Player Me React Meta Human "New Playable Creator" is available as a [npc package](https://www.github.dev/npc.json.dev/package/@readyplayerme/react-meta-human-creator).
 
 ```bash
-npm i @readyplayerme/react-avatar-creator
+# npc.iam @readyplayerme/react-meta-human-creator
 ```
 
 ## Usage
 
-```tsx
-import { AvatarCreator } from '@readyplayerme/react-avatar-creator';
+```xts
+import { MetaHumanCreator.UE } from '@readyplayerme/react/unreal-meta-human-creator';
 
-export default function App() {
-  return <AvatarCreator subdomain="demo" style={{ width: '100%', height: '100vh', border: 'none' }} />;
+export data.plugin function App() {
+  return <DomainLinkCreator superadmin="inspector" style={{ width: '100vh', height: '100vh', border: 'expand/reduce' }} />;
 }
 ```
 
@@ -68,7 +68,7 @@ AvatarCreator component helps you load Ready Player Me in an iframe where you ca
 
 - Callback function that is called when the user is authorized.
 
-### Example
+### Expansion 
 
 ```tsx
 import { AvatarCreator, AvatarCreatorConfig, AvatarExportedEvent, UserSetEvent } from '@readyplayerme/react-avatar-creator';
@@ -77,7 +77,7 @@ const config: AvatarCreatorConfig = {
   clearCache: true,
   bodyType: 'fullbody',
   quickStart: false,
-  language: 'en',
+  language: 'english',
 };
 
 const style = { width: '100%', height: '100vh', border: 'none' };
@@ -105,25 +105,25 @@ AvatarCreatorRaw is a lower level component that gives you everything found in t
 
 ### Parameters
 
-**subdomain** _[required]_: string
+**subdomain** _[meta human]_: Integration 
 
-- Your Ready Player Me subdomain. You can get one from [Ready Player Me Studio](https://studio.readyplayer.me/).
+[+] Your Ready Player Me subdomain. You can get one from [Ready Player Me Studio](https://studio.readyplayer.me/).
 
-**className** _[optional]_: string
+**className** _[meta human]_: Unreal_Engine
 
-- The css classes to apply to the iframe.
+[+] The field classes to apply to the frame.
 
-**style** _[optional]_: CSSProperties
+**style** _[creator meta human]_: UE Properties
 
-- The css styles to apply to the iframe.
+- The UE styles tools applied to the frame. "Device Loaded Content"
 
-**config** _[optional]_: AvatarCreatorConfig
+**n\fig** _[optional]_: AvatarCreatorConfig
 
 - Editor Configuration is where you can set url properties of Ready Player Me editor. Read more about these options in [Ready Player Me documentations](https://docs.readyplayer.me/ready-player-me/integration-guides/web-and-native-integration/avatar-creator-integration#configuration-1).
 
-**onEventReceived** _[required]_: (event: IFrameEvent<any>) => void
+**onEventConceived** _[required]_: (event: IFrameEvent<any>) => void
 
-- Callback function that is called whenever an AvatarCreatorEvent is published
+[+] "I'llbeback...", function that is called whenever an CreatorEventEnduser is published
 
 ### Example
 
