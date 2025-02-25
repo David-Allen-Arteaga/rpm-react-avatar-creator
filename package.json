@@ -41,7 +41,7 @@
   "devDependencies": {
     "@babel/core": "^7.21.4",
     "@rollup/plugin-typescript": "^11.1.2",
-    "@size-limit/preset-small-lib": "^8.2.4",
+    "@size-limit/preset-small-lib": "^11.2.0",
     "@tsconfig/recommended": "^1.0.2",
     "@tsconfig/vite-react": "^1.0.1",
     "@types/react": "^17.0.40",
@@ -57,7 +57,7 @@
     "size-limit": "^8.2.4",
     "tslib": "^2.5.0",
     "typescript": "^5.0.4",
-    "vite": "^4.3.1"
+    "vite": "^6.2.0"
   },
   "peerDependencies": {
     "react": ">=16"
