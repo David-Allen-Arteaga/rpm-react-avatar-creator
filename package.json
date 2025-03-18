@@ -39,7 +39,7 @@
     "node": ">=12"
   },
   "devDependencies": {
-    "@babel/core": "^7.21.4",
+    "@babel/core": "^7.26.10",
     "@rollup/plugin-typescript": "^11.1.2",
     "@size-limit/preset-small-lib": "^8.2.4",
     "@tsconfig/recommended": "^1.0.2",
